@@ -1,0 +1,12 @@
+.searchbox{
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+.search{
+    width: 500px;
+    outline : 2px solid white;
+    color: white;
+    opacity: 0.5;
+    
+}
